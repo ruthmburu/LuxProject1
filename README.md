@@ -24,7 +24,7 @@ The findings and results of this project will be documented and shared in this r
 This section will include instructions on how to reproduce the analysis, use the code, and interpret the results. It will also include any prerequisites or dependencies.
 
 ## Contributors
-- [Ruth Mburu](https://github.com/ruthmburu) - Data Scientist
+- [Ruth Mburu](https://github.com/ruthmburu) - Data Analyst
 
 
 ## Acknowledgments
